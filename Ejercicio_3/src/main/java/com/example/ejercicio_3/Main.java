@@ -23,3 +23,4 @@ class coche {
 
 }
 //Este ejercicio es para comprobar la creación de objetos//
+//También para comprobar una suma con tipos de datos integer
