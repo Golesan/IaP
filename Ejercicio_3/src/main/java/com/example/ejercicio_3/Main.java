@@ -22,3 +22,4 @@ class coche {
     }
 
 }
+//Este ejercicio es para comprobar la creación de objetos//
